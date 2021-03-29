@@ -1,0 +1,12 @@
+.single-event {
+  background-color: #3504f75c;
+  color: aliceblue;
+  border-radius: 15px;
+}
+
+.img {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
