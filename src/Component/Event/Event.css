@@ -1,12 +1,14 @@
-.single-event {
-  background-color: #3504f75c;
+.single-events {
+  filter: drop-shadow(0 0 0.75rem rgba(29, 28, 28, 0.8));
+}
+
+.name {
+  background-color: #421fcf;
   color: aliceblue;
-  border-radius: 15px;
 }
 
 .img {
   height: 250px;
   width: 100%;
   object-fit: cover;
-  object-position: center;
 }
